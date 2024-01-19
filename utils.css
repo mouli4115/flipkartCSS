@@ -1,0 +1,16 @@
+.text-center{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.my-1{
+    margin: 11px;
+}
+
+.center{
+    text-align: center;
+}
+
+.my-2{
+    margin: 5px;
+}
